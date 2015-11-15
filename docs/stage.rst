@@ -4,6 +4,15 @@ Bühnenaufbau
 grandMA2
 --------
 
+Der primäre DMX512-Bus steuert die digitalen Lichter mithilfe eines Computers
+auf welchem grandMA2 onPC läuft.
+
+.. image:: images/primaerer-bus.svg
+    :alt: Aufbau primärer DMX512-Bus
+
+DMX-Adresstabelle
+`````````````````
+
 +-----------+-----------------------+----------------------------------+----------------+
 | Kanal     | Name                  | Produkt                          | Programmierung |
 +===========+=======================+==================================+================+
@@ -29,12 +38,23 @@ grandMA2
 Supervisor
 ----------
 
-Inbetriebnahme:
+Ein sekundärer DMX512-Bus welcher an das von der Halleninfrastruktur vorhandene
+Kontrollpult "Supervisor" angeschlossen wird, steuert die einfachen analogen
+Elemente wie das vorinstallierte Bühnenlicht und die Nebelmaschine.
+
+.. image:: images/sekundaerer-bus.svg
+    :alt: Aufbau sekundärer DMX512-Bus
+
+Inbetriebnahme Supervisor
+`````````````````````````
 
 - ON (unten rechts)
 - A + B + M (links neben ON, gleichzeit drücken)
 - Fader A auf 10
 - Fader B auf 0
+
+DMX-Adresstabelle
+`````````````````
 
 +-----------+-----------------------+----------------------------------+----------------+
 | Kanal     | Name                  | Produkt                          | Programmierung |
@@ -77,7 +97,7 @@ Inbetriebnahme:
 +-----------+-----------------------+----------------------------------+----------------+
 | 0019-0022 | UV hinten             | Showtec Powerline 16 UV          | ???            |
 +-----------+-----------------------+----------------------------------+----------------+
-| 0023      |                       |                                  |                |
+| 0023      | Ventilator Nebel      |                                  | ???            |
 +-----------+-----------------------+----------------------------------+----------------+
-| 0024      |                       |                                  |                |
+| 0024      | Nebelmaschine         |                                  | ???            |
 +-----------+-----------------------+----------------------------------+----------------+

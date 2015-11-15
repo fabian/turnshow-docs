@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="830px" height="240px" viewBox="0 0 830 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4 (15575) - http://www.bohemiancoding.com/sketch -->
+    <title>sekundaerer-bus</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="sekundaerer-bus" sketch:type="MSArtboardGroup">
+            <g id="UV-hinten" sketch:type="MSLayerGroup" transform="translate(500.000000, 20.000000)">
+                <rect id="Block" fill="#00594F" sketch:type="MSShapeGroup" x="0" y="0" width="150" height="40" rx="8"></rect>
+                <text sketch:type="MSTextLayer" font-family="Arial" font-size="16" font-weight="normal" sketch:alignment="middle" fill="#FFFFFF">
+                    <tspan x="40.3671875" y="25">UV hinten</tspan>
+                </text>
+            </g>
+            <g id="Rack" sketch:type="MSLayerGroup" transform="translate(660.000000, 20.000000)">
+                <rect id="Block" fill="#00594F" sketch:type="MSShapeGroup" x="0" y="0" width="150" height="40" rx="8"></rect>
+                <text sketch:type="MSTextLayer" font-family="Arial" font-size="16" font-weight="normal" sketch:alignment="middle" letter-spacing="0.685714304" fill="#FFFFFF">
+                    <tspan x="55.4020089" y="25">Rack</tspan>
+                </text>
+            </g>
+            <g id="Discokugel" sketch:type="MSLayerGroup" transform="translate(340.000000, 20.000000)">
+                <rect id="Block" fill="#00594F" sketch:type="MSShapeGroup" x="0" y="0" width="150" height="40" rx="8"></rect>
+                <text sketch:type="MSTextLayer" font-family="Arial" font-size="16" font-weight="normal" sketch:alignment="middle" letter-spacing="0.685714304" fill="#FFFFFF">
+                    <tspan x="32.4425222" y="25">Discokugel</tspan>
+                </text>
+            </g>
+            <g id="Nebelmaschine" sketch:type="MSLayerGroup" transform="translate(20.000000, 20.000000)">
+                <rect id="Block" fill="#00594F" sketch:type="MSShapeGroup" x="0" y="0" width="150" height="40" rx="8"></rect>
+                <text sketch:type="MSTextLayer" font-family="Arial" font-size="16" font-weight="normal" sketch:alignment="middle" letter-spacing="0.685714304" fill="#FFFFFF">
+                    <tspan x="15.402232" y="25">Nebelmaschine</tspan>
+                </text>
+            </g>
+            <g id="Nebelmaschine" sketch:type="MSLayerGroup" transform="translate(180.000000, 20.000000)">
+                <rect id="Block" fill="#00594F" sketch:type="MSShapeGroup" x="0" y="0" width="150" height="40" rx="8"></rect>
+                <text id="Ventilator-Nebel" sketch:type="MSTextLayer" font-family="Arial" font-size="16" font-weight="normal" sketch:alignment="middle" letter-spacing="0.685714304" fill="#FFFFFF">
+                    <tspan x="13.0338168" y="25">Ventilator Nebel</tspan>
+                </text>
+            </g>
+            <g id="Supervisor" sketch:type="MSLayerGroup" transform="translate(660.000000, 180.000000)">
+                <rect id="Block" fill="#F2A900" sketch:type="MSShapeGroup" x="0" y="0" width="150" height="40" rx="8"></rect>
+                <text sketch:type="MSTextLayer" font-family="Arial" font-size="16" font-weight="normal" sketch:alignment="middle" letter-spacing="0.685714304" fill="#FFFFFF">
+                    <tspan x="33.3331472" y="25">Supervisor</tspan>
+                </text>
+            </g>
+            <path d="M140,80 L140,60 L210,60 L210,80" id="Cable" stroke="#979797" stroke-width="2" sketch:type="MSShapeGroup" transform="translate(175.000000, 70.000000) rotate(-180.000000) translate(-175.000000, -70.000000) "></path>
+            <path d="M300,80 L300,60 L370,60 L370,80" id="Cable" stroke="#979797" stroke-width="2" sketch:type="MSShapeGroup" transform="translate(335.000000, 70.000000) rotate(-180.000000) translate(-335.000000, -70.000000) "></path>
+            <path d="M460,80 L460,60 L530,60 L530,80" id="Cable" stroke="#979797" stroke-width="2" sketch:type="MSShapeGroup" transform="translate(495.000000, 70.000000) rotate(-180.000000) translate(-495.000000, -70.000000) "></path>
+            <path d="M780,60 L780,180" id="Cable" stroke="#979797" stroke-width="2" sketch:type="MSShapeGroup" transform="translate(780.000000, 120.000000) rotate(-180.000000) translate(-780.000000, -120.000000) "></path>
+            <path d="M620,80 L620,60 L690,60 L690,80" id="Cable" stroke="#979797" stroke-width="2" sketch:type="MSShapeGroup" transform="translate(655.000000, 70.000000) rotate(-180.000000) translate(-655.000000, -70.000000) "></path>
+        </g>
+    </g>
+</svg>
