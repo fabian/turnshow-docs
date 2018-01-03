@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800px" height="500px" viewBox="0 0 800 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>cables</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cables">
+            <g id="Stage" transform="translate(26.000000, 32.000000)">
+                <polyline id="Aussenwand" stroke="#A8A8A8" points="140 334.550669 0.500000002 334.550669 0.500000002 206.499995 76.5 206.499995 76.5 0.536326175 747.5 0.536326175 747.5 334.550669 592 334.550669"></polyline>
+                <path d="M140.5,334.5 L591.501099,334.5" id="Aussparung" stroke="#979797" stroke-linecap="square" stroke-dasharray="4,8"></path>
+            </g>
+            <g id="Rack" transform="translate(630.000000, 310.000000)">
+                <rect id="Block" fill="#00594F" x="0" y="0" width="130" height="30" rx="8"></rect>
+                <text font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="24" fill="#FFFFFF">
+                    <tspan x="50.0517578" y="19">Rack</tspan>
+                </text>
+            </g>
+            <g id="UV" transform="translate(480.000000, 310.000000)">
+                <rect id="Block" fill="#00594F" x="0" y="0" width="130" height="30" rx="8"></rect>
+                <text font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="24" fill="#FFFFFF">
+                    <tspan x="56.2758789" y="19">UV</tspan>
+                </text>
+            </g>
+            <g id="ML-1-Wing-Left" transform="translate(440.000000, 270.000000)">
+                <rect id="Block" fill="#00594F" x="0" y="0" width="130" height="30" rx="8"></rect>
+                <text font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="24" fill="#FFFFFF">
+                    <tspan x="19.184082" y="19">ML 1 Wing Left</tspan>
+                </text>
+            </g>
+            <g id="ML-2-Upstage-Right" transform="translate(120.000000, 50.000000)">
+                <rect id="Block" fill="#00594F" x="0" y="0" width="130" height="30" rx="8"></rect>
+                <text font-family="ArialMT, Arial" font-size="11" font-weight="normal" line-spacing="24" fill="#FFFFFF">
+                    <tspan x="17.0957031" y="18">ML 2 Upstage Right</tspan>
+                </text>
+            </g>
+            <g id="ML-3-Upstage-Center-R." transform="translate(270.000000, 50.000000)">
+                <rect id="Block" fill="#00594F" x="0" y="0" width="130" height="30" rx="8"></rect>
+                <text id="ML-3-Upstage-Center" font-family="ArialMT, Arial" font-size="11" font-weight="normal" line-spacing="24" fill="#FFFFFF">
+                    <tspan x="6.39916992" y="18">ML 3 Upstage Center R.</tspan>
+                </text>
+            </g>
+            <g id="ML-4-Upstage-Center-L." transform="translate(420.000000, 50.000000)">
+                <rect id="Block" fill="#00594F" x="0" y="0" width="130" height="30" rx="8"></rect>
+                <text id="ML-4-Upstage-Center" font-family="ArialMT, Arial" font-size="11" font-weight="normal" line-spacing="24" fill="#FFFFFF">
+                    <tspan x="7.31225586" y="18">ML 4 Upstage Center L.</tspan>
+                </text>
+            </g>
+            <g id="ML-5-Upstage-Left" transform="translate(570.000000, 50.000000)">
+                <rect id="Block" fill="#00594F" x="0" y="0" width="130" height="30" rx="8"></rect>
+                <text font-family="ArialMT, Arial" font-size="11" font-weight="normal" line-spacing="24" fill="#FFFFFF">
+                    <tspan x="20.2614746" y="18">ML 5 Upstage Left</tspan>
+                </text>
+            </g>
+            <g id="ML-6-Wing-Right" transform="translate(140.000000, 270.000000)">
+                <rect id="Block" fill="#00594F" x="0" y="0" width="130" height="30" rx="8"></rect>
+                <text font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="24" fill="#FFFFFF">
+                    <tspan x="14.5185547" y="19">ML 6 Wing Right</tspan>
+                </text>
+            </g>
+            <g id="Smoke-Factory" transform="translate(100.000000, 310.000000)">
+                <rect id="Block" fill="#00594F" x="0" y="0" width="130" height="30" rx="8"></rect>
+                <text font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="24" fill="#FFFFFF">
+                    <tspan x="18.9311523" y="19">Smoke Factory</tspan>
+                </text>
+            </g>
+            <g id="UV" transform="translate(120.000000, 220.000000)">
+                <rect id="Block" fill="#00594F" x="0" y="0" width="130" height="30" rx="8"></rect>
+                <text font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="24" fill="#FFFFFF">
+                    <tspan x="56.2758789" y="19">UV</tspan>
+                </text>
+            </g>
+            <g id="Lichtmischpult" transform="translate(630.000000, 450.000000)">
+                <rect id="Block" fill="#F2A900" x="0" y="0" width="130" height="30" rx="8"></rect>
+                <text font-family="ArialMT, Arial" font-size="14" font-weight="normal" letter-spacing="0.600000024" fill="#FFFFFF">
+                    <tspan x="16.9484373" y="19">Lichtmischpult</tspan>
+                </text>
+            </g>
+            <g id="grandMA2" transform="translate(630.000000, 400.000000)">
+                <rect id="Block" fill="#F2A900" x="0" y="0" width="130" height="30" rx="8"></rect>
+                <text font-family="ArialMT, Arial" font-size="14" font-weight="normal" letter-spacing="0.600000024" fill="#FFFFFF">
+                    <tspan x="30.8036132" y="19">grandMA2</tspan>
+                </text>
+            </g>
+            <g id="Discokugel" transform="translate(320.000000, 210.000000)">
+                <rect id="Block" fill="#00594F" x="0" y="0" width="130" height="30" rx="8"></rect>
+                <text font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="24" fill="#FFFFFF">
+                    <tspan x="31.762207" y="19">Discokugel</tspan>
+                </text>
+            </g>
+            <g id="LED-1" transform="translate(120.000000, 100.000000)">
+                <rect id="Block" fill="#00594F" x="0" y="0" width="80" height="30" rx="8"></rect>
+                <text font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="24" fill="#FFFFFF">
+                    <tspan x="21.0449219" y="19">LED 1</tspan>
+                </text>
+            </g>
+            <g id="LED-2" transform="translate(210.000000, 100.000000)">
+                <rect id="Block" fill="#00594F" x="0" y="0" width="80" height="30" rx="8"></rect>
+                <text font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="24" fill="#FFFFFF">
+                    <tspan x="21.0449219" y="19">LED 2</tspan>
+                </text>
+            </g>
+            <g id="LED-3" transform="translate(300.000000, 100.000000)">
+                <rect id="Block" fill="#00594F" x="0" y="0" width="80" height="30" rx="8"></rect>
+                <text font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="24" fill="#FFFFFF">
+                    <tspan x="21.0449219" y="19">LED 3</tspan>
+                </text>
+            </g>
+            <g id="LED-4" transform="translate(390.000000, 100.000000)">
+                <rect id="Block" fill="#00594F" x="0" y="0" width="80" height="30" rx="8"></rect>
+                <text font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="24" fill="#FFFFFF">
+                    <tspan x="21.0449219" y="19">LED 4</tspan>
+                </text>
+            </g>
+            <g id="LED-5" transform="translate(480.000000, 100.000000)">
+                <rect id="Block" fill="#00594F" x="0" y="0" width="80" height="30" rx="8"></rect>
+                <text font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="24" fill="#FFFFFF">
+                    <tspan x="21.0449219" y="19">LED 5</tspan>
+                </text>
+            </g>
+            <g id="LED-6" transform="translate(570.000000, 100.000000)">
+                <rect id="Block" fill="#00594F" x="0" y="0" width="80" height="30" rx="8"></rect>
+                <text font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="24" fill="#FFFFFF">
+                    <tspan x="21.0449219" y="19">LED 6</tspan>
+                </text>
+            </g>
+            <g id="UV" transform="translate(290.000000, 270.000000)">
+                <rect id="Block" fill="#00594F" x="0" y="0" width="130" height="30" rx="8"></rect>
+                <text font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="24" fill="#FFFFFF">
+                    <tspan x="56.2758789" y="19">UV</tspan>
+                </text>
+            </g>
+            <g id="UV" transform="translate(460.000000, 200.000000)">
+                <rect id="Block" fill="#00594F" x="0" y="0" width="130" height="30" rx="8"></rect>
+                <text id="Strobo" font-family="ArialMT, Arial" font-size="14" font-weight="normal" line-spacing="24" fill="#FFFFFF">
+                    <tspan x="45.3759766" y="19">Strobo</tspan>
+                </text>
+            </g>
+            <path d="M490,310 L490,300" id="Cable" stroke="#000000" stroke-width="2"></path>
+            <path d="M580,200 L580,130" id="Cable" stroke="#000000" stroke-width="2"></path>
+            <path d="M750,400 L750,340" id="Cable" stroke="#000000" stroke-width="2"></path>
+            <path d="M750,450 L750,430" id="Cable" stroke="#000000" stroke-width="2"></path>
+            <path d="M630,320 L610,320" id="Cable" stroke="#000000" stroke-width="2"></path>
+            <path d="M440,280 L420,280" id="Cable" stroke="#000000" stroke-width="2"></path>
+            <path d="M290,280 L270,280" id="Cable" stroke="#000000" stroke-width="2"></path>
+            <path d="M320,230 L250,230" id="Cable" stroke="#000000" stroke-width="2"></path>
+            <path d="M460,220 L450,220" id="Cable" stroke="#000000" stroke-width="2"></path>
+            <path d="M220,310 L220,300" id="Cable" stroke="#000000" stroke-width="2"></path>
+            <path d="M130,310 L130,250" id="Cable" stroke="#000000" stroke-width="2"></path>
+            <path d="M570,110 L560,110" id="Cable" stroke="#000000" stroke-width="2"></path>
+            <path d="M480,110 L470,110" id="Cable" stroke="#000000" stroke-width="2"></path>
+            <path d="M390,110 L380,110" id="Cable" stroke="#000000" stroke-width="2"></path>
+            <path d="M300,110 L290,110" id="Cable" stroke="#000000" stroke-width="2"></path>
+            <path d="M210,110 L200,110" id="Cable" stroke="#000000" stroke-width="2"></path>
+            <path d="M270,60 L250,60" id="Cable" stroke="#000000" stroke-width="2"></path>
+            <path d="M420,60 L400,60" id="Cable" stroke="#000000" stroke-width="2"></path>
+            <path d="M130,100 L130,80" id="Cable" stroke="#000000" stroke-width="2"></path>
+            <path d="M570,60 L550,60" id="Cable" stroke="#000000" stroke-width="2"></path>
+        </g>
+    </g>
+</svg>
