@@ -50,6 +50,12 @@ onPC läuft.
 | `0366-0398` | Spiider 3           | Robe Spider                      | Mode 3    |
 | `0399-0431` | Spiider 4 Right     | Robe Spider                      | Mode 3    |
 
+## Dispatch
+
+Rack 1
+
+## Strom
+
 ## Verkablung
 
 ![Aufbau DMX512-Bus](images/cables.svg)
@@ -62,5 +68,9 @@ MIDI Notes werden auf Channel 1 mit voller Velocity (127) gesendet.
 | ----- | ----------------------- | -------- |
 | `001` | Tardis Police Light On  | grandMA2 |
 | `002` | Tardis Police Light Off | grandMA2 |
-| `101` | Nummer 01 Start         | QLab     |
-| `201` | Nummer 01 Zugabe Start  | QLab     |
+| `020` | Nummer 01 Start         | QLab     |
+| `021` | Nummer 01 Zugabe Start  | QLab     |
+| `023` | Nummer 02 Start         | QLab     |
+| `024` | Nummer 02 Zugabe Start  | QLab     |
+| `025` | Nummer 03 Start         | QLab     |
+| `026` | Nummer 03 Zugabe Start  | QLab     |
