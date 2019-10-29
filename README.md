@@ -53,3 +53,14 @@ onPC läuft.
 ## Verkablung
 
 ![Aufbau DMX512-Bus](images/cables.svg)
+
+## MIDI
+
+MIDI Notes werden auf Channel 1 mit voller Velocity (127) gesendet.
+
+| Note  | Name                    | Aktor    |
+| ----- | ----------------------- | -------- |
+| `001` | Tardis Police Light On  | grandMA2 |
+| `002` | Tardis Police Light Off | grandMA2 |
+| `101` | Nummer 01 Start         | QLab     |
+| `201` | Nummer 01 Zugabe Start  | QLab     |
