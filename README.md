@@ -50,15 +50,40 @@ onPC läuft.
 | `366-398` | Spiider 3           | Robe Spider                      | Mode 3    |
 | `399-431` | Spiider 4 Right     | Robe Spider                      | Mode 3    |
 
-## Dispatch
-
-Rack 1
-
-## Strom
-
 ## Verkablung
 
 ![Aufbau DMX512-Bus](images/cables.svg)
+
+## Dispatch
+
+### Rack 1
+
+| Regelkreis  | 1     | 2     | 3     | 4     | 5     | 6     |
+| ----------- | ----- | ----- | ----- | ----- | ----- | ----- |
+| Adresse     | `512` | `512` | `512` | `512` | `512` | `512` |
+| Stecker Nr. |       |       |       |       |       |       |
+| Stecker Nr. |       |       |       |       |       |       |
+| Stecker Nr. |       |       |       |       |       |       |
+
+### Rack 2
+
+| Regelkreis  | 1     | 2     | 3     | 4     | 5     | 6     |
+| ----------- | ----- | ----- | ----- | ----- | ----- | ----- |
+| Adresse     | `512` | `512` | `512` | `512` | `512` | `512` |
+| Stecker Nr. |       |       |       |       |       |       |
+| Stecker Nr. |       |       |       |       |       |       |
+| Stecker Nr. |       |       |       |       |       |       |
+
+### Rack 3
+
+| Regelkreis  | 1     | 2     | 3     | 4     | 5     | 6     |
+| ----------- | ----- | ----- | ----- | ----- | ----- | ----- |
+| Adresse     | `512` | `512` | `512` | `512` | `512` | `512` |
+| Stecker Nr. |       |       |       |       |       |       |
+| Stecker Nr. |       |       |       |       |       |       |
+| Stecker Nr. |       |       |       |       |       |       |
+
+## Strom
 
 ## MIDI
 
